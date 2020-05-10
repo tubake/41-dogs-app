@@ -1,0 +1,8 @@
+export const ADD_FAVORITE = 'ADD_FAVORITE';
+export const REMOVE_FAVORITE = 'REMOVE_FAVORITE';
+export const LOAD_FAVORITE = 'LOAD_FAVORITE';
+
+export const FETCH_DATA = 'FETCH_DATA';
+export const GET_STATUS = "GET_STATUS";
+export const DISABLED_BUTTON = 'DISABLED_BUTTON';
+
